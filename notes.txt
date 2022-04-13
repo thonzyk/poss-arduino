@@ -1,0 +1,8 @@
+robot_number: 2
+
+micros - measure time
+realizovat stavový automat
+
+
+
+
